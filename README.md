@@ -13,6 +13,9 @@ Ciberseguridad: Prácticas de seguridad en el desarrollo de software y protecci�
 Desarrollo móvil: Experiencia en la creación de aplicaciones móviles para iOS y Android.
 Automatización y scripting: Habilidad para crear scripts de automatización y pruebas automatizadas.
 Trabajo en equipo
+
+## CONTACTO
+https://www.linkedin.com/in/ruben-casanova-794657329/
 <!--
 **caasaanoovaa/caasaanoovaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
